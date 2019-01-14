@@ -1,0 +1,14 @@
+/**app.wxss**/
+/* .container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}  */
+
+/**app.wxss**/
+pages {
+  position: relative;
+  z-index: 9999998;
+  background: #fff;
+}
